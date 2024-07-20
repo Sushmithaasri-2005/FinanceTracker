@@ -1,0 +1,60 @@
+date,amount,category,description
+01-01-2024,36826.21,Income,Freelance Work
+04-01-2024,1730.1,Expense,Commute
+06-01-2024,4472.56,Expense,Groceries
+10-01-2024,2035.5,Expense,Commute
+12-01-2024,67.45,Expense,Tea break
+15-01-2024,17410.83,Income,Freelance Work
+17-01-2024,42.36,Expense,Tea break
+20-01-2024,49795.72,Income,Salary
+23-01-2024,14.55,Expense,Tea break
+25-01-2024,307.16,Expense,Commute
+01-02-2024,22257.38,Income,Salary
+04-02-2024,2173.14,Expense,Commute
+07-02-2024,2729.3,Expense,Groceries
+10-02-2024,272.66,Expense,Taxi
+12-02-2024,3814.68,Expense,Groceries
+15-02-2024,219.3,Expense,Tea break
+18-02-2024,12457.38,Income,Freelance Work
+20-02-2024,131.65,Expense,Commute
+22-02-2024,47795.72,Income,Salary
+25-02-2024,28497.23,Income,Bonus
+01-03-2024,1096.1,Expense,Commute
+04-03-2024,14110.83,Income,Freelance Work
+07-03-2024,1588.71,Expense,Commute
+10-03-2024,1463.14,Expense,Commute
+12-03-2024,1228.52,Expense,Taxi
+15-03-2024,4284.23,Income,Gift
+18-03-2024,270.57,Expense,Commute
+20-03-2024,36554.61,Income,Freelance Work
+23-03-2024,1316.1,Expense,Commute
+26-03-2024,25892.94,Income,Salary
+01-04-2024,15443.55,Income,Salary
+04-04-2024,365.19,Expense,Taxi
+07-04-2024,3650.19,Income,Gift
+10-04-2024,3982.72,Expense,Groceries
+12-04-2024,2030.5,Expense,Commute
+15-04-2024,211.3,Expense,Tea break
+18-04-2024,1982.72,Expense,Groceries
+20-04-2024,4817.32,Income,Freelance Work
+23-04-2024,4871.32,Income,Gift
+25-04-2024,1142.12,Expense,Commute
+28-04-2024,3134.05,Expense,Dinner at Restaurant
+30-04-2024,2127.66,Expense,Taxi
+01-05-2024,441.19,Expense,Taxi
+04-05-2024,1110.83,Income,Freelance Work
+07-05-2024,1588.71,Expense,Commute
+10-05-2024,4555.45,Expense,Groceries
+12-05-2024,49765.72,Income,Salary
+15-05-2024,3116.1,Expense,Commute
+20-07-2024,50000,Income,Salary
+19-07-2024,1000.0,Expense,Dinner at Darling Restaurant
+19-07-2024,100.0,Expense,Commute
+19-07-2024,10000.0,Expense,Rent
+20-07-2024,10.0,Expense,Tea break
+20-07-2024,100.0,Expense,taxi 
+20-07-2024,100000.0,Income,Salary Incentives
+
+20-07-2024,50.0,Expense,Lunch
+20-07-2024,450,Expense,Dinner 
+21-07-2024,157,Income,Gpay Cash Reward
